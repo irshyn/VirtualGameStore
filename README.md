@@ -14,4 +14,8 @@ ASP.NET, Entity Framework, C#, JavaScript, jQuery, AJAX, Bootstrap, HTML, CSS, M
 - separate panel accessible to store employees only to manage inventory, approve/decline reviews, and generate reports
 
 ## App Screenshot
+### Searching, rating, and reviewing a game
 <img src="https://imgur.com/yIZIQ8X.gif" width="900">
+
+### Adding game(s) to shopping cart, clearing cart, checking out and downloading game(s)
+<img src="https://imgur.com/FHlIx7l.gif" width="900">
